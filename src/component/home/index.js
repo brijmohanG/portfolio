@@ -3,11 +3,13 @@ import { ProfileBackground, ProfileImage, ProfileImageContainer, ProfileBackgrou
 export const Profile = () => {
     return (
         <div>
-            <ProfileBackground>
-                <ProfileBackgroundContentContainer>
+                <ProfileBackground>
                     <ProfileImageContainer>
                         <ProfileImage src="https://i.postimg.cc/FYzTv43r/Whats-App-Image-2025-08-09-at-12-19-46.jpg" alt="profile" />
                     </ProfileImageContainer>
+                </ProfileBackground>
+                <ProfileBackgroundContentContainer>
+                    
                     <div>
                         <MainHeading>Brijmohan Gautam</MainHeading>
                         <Paragraph>Full Stack Developer | CCBPian at NxtWave | HTML5,CSS,Javascript,Bootstrap,SQL,React.Js,Node.Js</Paragraph>
@@ -32,7 +34,7 @@ export const Profile = () => {
                         </Paragraph>
                     </div>
                 </ProfileBackgroundContentContainer>
-            </ProfileBackground>
+            
         </div>
     )
 }
