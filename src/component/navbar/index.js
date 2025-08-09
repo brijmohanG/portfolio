@@ -14,7 +14,7 @@
                 <Nav.Link href="/">Profile</Nav.Link>
                 <Nav.Link href="education">Education</Nav.Link>
                 <Nav.Link href="expirence">Expirence</Nav.Link>
-                <Nav.Link href="#picing">Project</Nav.Link>
+                <Nav.Link href="project">Project</Nav.Link>
               </Nav>
             </Navbar.Collapse>
           </Container>
