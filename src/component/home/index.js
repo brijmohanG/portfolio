@@ -9,7 +9,6 @@ export const Profile = () => {
                     </ProfileImageContainer>
                 </ProfileBackground>
                 <ProfileBackgroundContentContainer>
-                    
                     <div>
                         <MainHeading>Brijmohan Gautam</MainHeading>
                         <Paragraph>Full Stack Developer | CCBPian at NxtWave | HTML5,CSS,Javascript,Bootstrap,SQL,React.Js,Node.Js</Paragraph>

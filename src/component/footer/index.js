@@ -13,10 +13,10 @@ export const Footer = () => {
     return (
         <FooterBackgroundContainer>
             <div>
-                <FaGithub style={{ color: "yellow", fontSize: "40px", cursor: "pointer" }} onClick={handleRedirectLink}/>
+                <FaGithub style={{ color: "yellow", fontSize: "40px", cursor: "pointer" }} onClick={handleRedirectGit}/>
             </div>
             <div>
-                <FaLinkedinIn style={{ color: "yellow", fontSize: "40px", cursor: "pointer"}}  onClick={handleRedirectGit}/>
+                <FaLinkedinIn style={{ color: "yellow", fontSize: "40px", cursor: "pointer"}}  onClick={handleRedirectLink}/>
             </div>
         </FooterBackgroundContainer>
     )
