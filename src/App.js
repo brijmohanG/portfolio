@@ -4,6 +4,7 @@ import {Education} from "./component/education"
 import {Expirence} from "./component/expirence";
 import {ResponsiveNavbar} from "./component/navbar";
 import {Project} from "./component/project";
+import { Footer } from './component/footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/expirence" element={<Expirence />} />
         <Route path="/project" element={<Project />} />
       </Routes>
+      <Footer/>
     </Router>
   );
 }
