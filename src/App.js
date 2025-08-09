@@ -9,7 +9,7 @@ function App() {
     <Router>
       <ResponsiveNavbar/>
       <Routes>
-        <Route path="/profile" element={<Profile />} />
+        <Route path="/" element={<Profile />} />
         <Route path="/education" element={<Education />} />
         <Route path="/expirence" element={<Expirence />} />
       </Routes>
