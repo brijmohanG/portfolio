@@ -13,7 +13,7 @@
               <Nav className="me-auto">
                 <Nav.Link href="profile">Profile</Nav.Link>
                 <Nav.Link href="education">Education</Nav.Link>
-                <Nav.Link href="#pricing">Expirence</Nav.Link>
+                <Nav.Link href="expirence">Expirence</Nav.Link>
                 <Nav.Link href="#picing">Project</Nav.Link>
               </Nav>
             </Navbar.Collapse>
