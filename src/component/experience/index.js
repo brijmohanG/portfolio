@@ -1,7 +1,7 @@
 import { MainHeading, ExperienceBackground, Paragraph, CardContainer, ExperienceContentContainer } from './styleComponent'
 
 
-export const Expirence = () => {
+export const Experience = () => {
 
     return (
         <div>
