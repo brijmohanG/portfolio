@@ -29,7 +29,7 @@ export const Profile = () => {
                     <div>
                         <MainHeading>Current Location</MainHeading>
                         <Paragraph>
-                            Gugram Haryana, 
+                            Gurugram Haryana, 
                         </Paragraph>
                     </div>
                 </ProfileBackgroundContentContainer>
