@@ -2,7 +2,7 @@
 import styled from "styled-components";
 
 
-export const ExpirenceBackground = styled.div`
+export const ExperienceBackground = styled.div`
     background-image: url("https://i.postimg.cc/vBm34j3R/climber-9491285-1920.png");
     background-size: cover;
     color: #ffffff;
@@ -21,7 +21,7 @@ export const MainHeading = styled.h1`
 
 `
 
-export const ExpirienceContentContainer = styled.div`
+export const ExperienceContentContainer = styled.div`
     padding-left: 30px;
     padding-right: 30px;
     display:flex;

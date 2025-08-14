@@ -1,13 +1,13 @@
-import { MainHeading, ExpirenceBackground, Paragraph, CardContainer, ExpirienceContentContainer } from './styleComponent'
+import { MainHeading, ExperienceBackground, Paragraph, CardContainer, ExperienceContentContainer } from './styleComponent'
 
 
 export const Expirence = () => {
 
     return (
         <div>
-            <ExpirenceBackground>
-            </ExpirenceBackground>
-            <ExpirienceContentContainer>
+            <ExperienceBackground>
+            </ExperienceBackground>
+            <ExperienceContentContainer>
             <CardContainer>
                 <div>
                     <MainHeading>Teleperformance Global Services Private Limited  (Customer Service Associate) </MainHeading>
@@ -40,7 +40,7 @@ functionality and performance.
                     </Paragraph>
                 </div>
             </CardContainer>
-            </ExpirienceContentContainer>
+            </ExperienceContentContainer>
         </div>
     )
 }
